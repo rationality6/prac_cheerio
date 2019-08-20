@@ -1,7 +1,7 @@
 // const request = require('request')
+// const fs = require('fs');
 
-
-// request('./scraping.html', (error, response, body) => {
+// request('./scraping', (error, response, body) => {
 //     console.error('error: ', error)
 //     console.log("statusCode:", response && response.statusCode);
 //     // console.log("body:",body)
